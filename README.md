@@ -13,3 +13,4 @@ Contributing: Contributions are welcome! Feel free to fork the repository and su
 
 Feedback and Contact: Have questions or feedback? Reach out via
 https://www.linkedin.com/in/sai-teja-g-1ab383239/
+![Weather](https://github.com/user-attachments/assets/d0cae662-d9c8-46f0-9043-ef4c5a276da7)
